@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Web Development, Machine Learning
 - 🌱 I’m currently learning Game Development Using Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: prasadganeshhegde@gmail.com
 
 <!---
 prasadhegde001/prasadhegde001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
